@@ -49,7 +49,7 @@ redis:
   type: standalone
   config :
     type: manual
-  host: localhost
+  host: Tmall
   port: 6379
   password:
   maxIdle: 500
